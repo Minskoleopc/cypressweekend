@@ -1,5 +1,3 @@
-
-
 let a1 = [11,22,33,44,55,66]
 let q3 = a1.at(3)
 console.log(q3)
