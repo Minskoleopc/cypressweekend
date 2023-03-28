@@ -1,0 +1,33 @@
+//Javascript 
+//DOM
+//Es6 
+//AJAX
+//Javascript
+//Typescript 
+// React js ---------- Cypress
+
+
+// String 
+// Array
+// Object 
+// Map 
+// Set 
+// HtmlElment
+// User defined
+
+// DOM
+
+// Oops
+
+// Advanced js
+
+//AJAX (Promises)
+
+
+
+
+
+
+
+
+

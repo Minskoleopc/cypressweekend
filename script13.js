@@ -60,8 +60,6 @@ console.log(city[2])
 console.log(city[3])
 
 // Javascript 
-
-
 // Object ---- Type 
 // Type 
 

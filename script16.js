@@ -137,14 +137,11 @@ console.log(q333)
 
 
 // program 3
-
 let numbers = [11,22,33]
 let total = 0
-
 for(let i = 0 ; i < numbers.length ; i++){
     // console.log(i)
     // console.log(numbers[i])
-
     total = total + numbers[i]
     //        0    +  11   ======> 11
     //        11   +  22   ======> 33

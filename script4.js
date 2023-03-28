@@ -121,10 +121,7 @@ while(q5 >= 3){
 }
 
 // break with while 
-
-
 let q6 = 1
-
 while(q6 <= 3){
     if(q6 == 2){
         break

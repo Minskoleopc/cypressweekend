@@ -1,5 +1,3 @@
-
-
 let x = 10
 let y = 5
 
@@ -89,11 +87,7 @@ console.log(qq2 + qq2)
 // console.log(qq3)
 // console.log(qq3 + qq3)
 
-
-let SubC = (x,y)=>{
-    console.log('hello')
-    return x - y
-}
+let SubC = (x,y) =>x - y
 let qq3 = SubC(12,4)
 console.log(qq3)
 console.log(qq3 + qq3)

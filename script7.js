@@ -52,8 +52,6 @@ let r24 = numbersB.findIndex(function(el,index,arr){
 })
 console.log(r24)
 
-
-
 numbersB = [55,66,12,2,33,-44,55,666,667]
 let q2 = numbersB.every(function(el,index,arr){
     return el > 1

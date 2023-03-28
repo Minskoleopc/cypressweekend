@@ -35,9 +35,6 @@ console.log(names)
 
 // map() , filter() , forEach() , reduce()
 // some() , every() , find() , findIndex()
-
-
-
 let birthYear = [1989,1990,1991,1992]
 let ages = [] // [34]
 // [34,33,31,30]

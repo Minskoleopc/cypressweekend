@@ -5,7 +5,6 @@
 // Object 
 // Property 
 // Methods
-
 //             0          1       2       3     4
 let names = ["chinmay","sarika","satish","ram","raj"]
 //            0          1           2
@@ -56,7 +55,6 @@ for(let i = city.length -1 ;i >= 0 ; i--){
 // action - to add the element last
 // return  - new lenght of array
 
-
 let  fruits = ["apple","mango","banana","grapes"]
 let q22 = fruits.push("papaya")
 console.log(fruits)
@@ -73,15 +71,13 @@ console.log(fruits)
 //action - removes the element from last 
 // return - same element 
 //[ 'berry', 'apple', 'mango', 'banana', 'grapes', 'papaya' ]
-
 let q55 = fruits.pop()
 console.log(q55)
 console.log(fruits)
 
 // shift()
 // action removes the first element 
-// return  - same
-
+// return  - same element
 let q66 = fruits.shift()
 console.log(q66)
 console.log(fruits)

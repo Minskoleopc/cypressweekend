@@ -92,7 +92,14 @@ console.log(j)
 
 var kk = 100
 function add(){
-    console.log(k)
+    var kk = 900
+    console.log(kk) // 900
     console.log('added')
+    {
+        console.log(kk) // 900
+    }
 
 }
+console.log(kk) // 100
+add()
+console.log(kk) // 100
