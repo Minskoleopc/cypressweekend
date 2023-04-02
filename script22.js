@@ -129,6 +129,9 @@ console.log(fn2)
 console.log(ln2)
 
 
+let a1111 = new Array([22,33,44]);
+console.log(a1111)
+
 
 
 
