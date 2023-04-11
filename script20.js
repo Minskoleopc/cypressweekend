@@ -50,17 +50,18 @@ let amol = {
 // console.log(chinmay2)
 
 
-class PersonC {
-    constructor(fn,ln, age,rn){
-        this.firstName = fn
-        this.lastName = ln
-        this.age = age
-        this.rollNo = rn
-    }
-}
+// class PersonC {
+//     constructor(fn,ln, age,rn){
+//         this.firstName = fn
+//         this.lastName = ln
+//         this.age = age
+//         this.rollNo = rn
+//     }
+// }
 
-let chinmay3 = new PersonC("chinmay3","deshpande3",12,14)
-console.log(chinmay3)
+// let chinmay3 = new PersonC("chinmay3","deshpande3",12,14)
+// let amol3 = new PersonC("amol3","rao3",22,45)
+// console.log(chinmay3)
 
 
 

@@ -73,15 +73,12 @@ console.log(mapA)
 
 // mapA.clear()
 // console.log(mapA)
-
-
 for(let key of mapA.keys()){
     console.log(key)
 }
 for(let v of mapA.values()){
     console.log(v)
 }
-
 for(let a of mapA.entries()){
     console.log(a)
 }
