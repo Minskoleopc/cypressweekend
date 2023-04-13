@@ -54,12 +54,12 @@
 {/* <h1>Hello</h1>
     <button> Change color</button> */}
 
-let hd = document.querySelector('h1')
-let bt = document.querySelector('button')
+// let hd = document.querySelector('h1')
+// let bt = document.querySelector('button')
 
-bt.addEventListener('click',function(){
-    hd.style.color = "red"
-})
+// bt.addEventListener('click',function(){
+//     hd.style.color = "red"
+// })
 
 
 
