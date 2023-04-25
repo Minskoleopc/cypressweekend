@@ -86,7 +86,6 @@ let audi2 = new VehicleB("sedane","red")
 
 let amol5 = Object.create({})
 console.log(amol5)
-
 amol5.firstName = "amol5"
 amol5.lastName = "rao5"
 amol5.age = "15"
