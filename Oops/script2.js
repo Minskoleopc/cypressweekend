@@ -79,7 +79,6 @@
 
 
 class PersonD {
-
     // how to get common properties using Es6
     constructor(fn,ln){
         this.firstName = fn
@@ -92,7 +91,6 @@ class PersonD {
     display(){
         console.log(this.firstName + this.lastName)
     }
-
 }
 
 let amolBB = new PersonD("amolB","raoB")
